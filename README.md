@@ -48,7 +48,7 @@ To get started with the Sinhala Voice Assistant, follow these steps:
 To run the Sinhala Voice Assistant, use the following command:
 
 ```bash
-python assistant.py
+python main.py
 ```
 
 ### Example Code
