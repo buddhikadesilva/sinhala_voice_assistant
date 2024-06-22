@@ -1,0 +1,3 @@
+translate
+ollama
+gtts
